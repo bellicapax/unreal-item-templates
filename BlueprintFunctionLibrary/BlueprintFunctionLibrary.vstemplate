@@ -30,6 +30,6 @@
       https://msdn.microsoft.com/en-us/library/ms171408.aspx -->
     <ProjectItem
       ReplaceParameters="true"
-      TargetFileName="$safeitemname$.h">BlueprintFunctionLibraryTemplate.h</ProjectItem>
+      TargetFileName="$safeitemname$.h">BlueprintFunctionLibrary.h</ProjectItem>
   </TemplateContent>
 </VSTemplate>
