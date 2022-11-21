@@ -3,7 +3,7 @@
 #include "$safeitemname$.generated.h"
 
 USTRUCT()
-class F$safeitemname$
+struct F$safeitemname$
 {
 	GENERATED_BODY()
 
